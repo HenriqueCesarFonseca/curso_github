@@ -4,6 +4,15 @@
 ![logo](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/radiacao_2.png)
 
 
+
+** Pendências**
+
+- [x] Sem bugs.
+- [ ] Instalador ok.
+- [ ] 
+
+
+
 * Sobre o projeto.
 * Montando o detector.
 * Download do softwere DetectaRad.
