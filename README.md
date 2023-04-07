@@ -24,6 +24,25 @@
 >
 > Terceira linha
 
+Comandos para localizar o diretório
+
+"""
+
+dir
+
+
+"""
+
+'''
+
+dir
+
+'''
+
+
+
+
+
 
 
 
