@@ -13,8 +13,8 @@
 
 Recurso              |        Disponibilidade
 -------------------- |  ---------------------
-
 resolução máxima     |      1280x920
+
 
 
 
