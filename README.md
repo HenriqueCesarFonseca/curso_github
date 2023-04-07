@@ -24,20 +24,25 @@
 >
 > Terceira linha
 
-Comandos para localizar o diretório
+**Comandos para localizar o diretório**
 
-"""
+```C++
+int a=10;
+b++;
+return 0;
+
+dir
+list
+```
 
 dir
 
-
-"""
-
-'''
-
-dir
+mkdir teste
 
 '''
+
+
+
 
 
 
