@@ -13,10 +13,9 @@
 1. Sobre o projeto.
 2. Montando o detector.
 3. Utilizando o software
+        aaa
+        bbb
         
-        1. aaa
-        2. bbb
-
 4. Uso
 
 
