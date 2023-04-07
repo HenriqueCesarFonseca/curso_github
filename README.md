@@ -9,7 +9,15 @@
 
 - [x] Sem bugs.
 - [ ] Instalador ok.
-- [ ] 
+- [ ] Ícone
+
+Recurso              |        Disponibilidade
+-------------------- |  ---------------------
+
+resolução máxima     |      1280x920
+
+
+
 
 
 
