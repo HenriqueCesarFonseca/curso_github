@@ -14,6 +14,9 @@
 Recurso              |        Disponibilidade
 -------------------- |  ---------------------
 resolução máxima     |      1280x920
+![logo](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/radiacao_2.png)   | ![logo](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/radiacao_2.png) 
+
+
 
 
 
