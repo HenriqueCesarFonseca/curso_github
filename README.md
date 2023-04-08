@@ -4,7 +4,43 @@
 ![logo](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/radiacao_2.png)
 
 
-[Download](https://github.com/HenriqueCesarFonseca/curso_github#instru%C3%A7%C3%B5es-de-uso)
+[Sobre]() | [Visão Geral do Projeto]() | [Montando o Detector]() | [Download do Software]() | [Utilizando o software DetectaRad]()
+
+
+
+### **Sobre o projeto**
+O objetivo geral deste projeto é enriquecer o ensino de Física Moderna em sala de aula através da confecção de um experimento de baixo custo e viável de ser realizado em sala de aula para turmas do ensino médio.
+
+O experimento consiste em captar radiação ionizante do tipo gama atravez de uma webcam de baixo custo e analisar as imagens em tempo real através de um software (DetectaRad) desenvolvido para este fim.
+
+Este projeto faz parte da dissertação de mestrado do **Programa Nacional de Mestrado Profissional em Ensino de Física (MNPEF)** desenvolvida no polo da UNESP de Presidente Prudente - SP, orientado pela Profª. Dra. Ana Maria Osório Araya.
+ 
+
+ ### **Visão Geral do Projeto**
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Download](https://github.com/HenriqueCesarFonseca/curso_github#instru%C3%A7%C3%B5es-de-uso)  |  
 
 [Recomendações](https://github.com/HenriqueCesarFonseca/curso_github#recomenda%C3%A7%C3%B5es)
 
