@@ -4,7 +4,7 @@
 ![logo](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/radiacao_2.png)
 
 
-[Sobre]() | [Visão Geral do Projeto]() | [Montando o Detector]() | [Download do Software]() | [Utilizando o software DetectaRad]()
+[Sobre]() | [Visão Geral do Projeto]() | [Montando o Detector]() | [Download e Instalação]() | [Utilizando o software DetectaRad]() | [Fonte de Radiação]()
 
 
 
@@ -17,6 +17,35 @@ Este projeto faz parte da dissertação de mestrado do **Programa Nacional de Me
  
 
  ### **Visão Geral do Projeto**
+
+Uma fonte de radiação gama e uma webcam são colocadas dentro de um recipiente fechado para impedir a entrada de luz. O cabo USB da webcam é conectado a um PC onde o software **DetectaRad** irá exibir em tempo real todos os pontos de radiação detectados bem como uma janela com todos os pontos já detectados e a quantidade total de pontos detectados.
+
+![esquema](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/VIS%C3%83O%20GERAL.bmp)
+
+
+
+
+
+ ### **Montando o Detector**
+
+
+ ### **Download e Instalação**
+
+
+### **Utilizando o software DetectaRad**
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+
 
  
  
