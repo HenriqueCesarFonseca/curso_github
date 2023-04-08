@@ -25,7 +25,9 @@ Uma fonte de radiação gama e uma webcam são colocadas dentro de um recipiente
 Ao finalizar o programa, todos os frames em que foram detectados algum ponto de radiação são armazenados em um diretório bem como um arquivo com as coordenadas de todos os pontos de radiação detectados. A cada experimento um novo diretório é criado e numerado sequencialmente.
 O softwre DetectaRad foi desenvolvido para ser executado apenas no sistema operacional Windows.
 
-![Demonstracao](https://drive.google.com/file/d/1rIt1GtSkVhZ2Sszfr4N692iHP7gU_kZn/view?usp=share_link)
+[Demonstracao](https://youtu.be/zCJLGbgy4IU)
+
+
 
 
 
