@@ -29,6 +29,9 @@ O softwre DetectaRad foi desenvolvido para ser executado apenas no sistema opera
 
 ![GIF](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/gif_2.gif)
 
+![Montagem final](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/MONTAGEM%20FINAL.bmp)
+
+
 
 
 
