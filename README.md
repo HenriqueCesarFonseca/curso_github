@@ -23,7 +23,7 @@ Uma fonte de radiação gama e uma webcam são colocadas dentro de um recipiente
 ![esquema](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/VIS%C3%83O%20GERAL.bmp)
 
 Ao finalizar o programa, todos os frames em que foram detectados algum ponto de radiação são armazenados em um diretório bem como um arquivo com as coordenadas de todos os pontos de radiação detectados. A cada experimento um novo diretório é criado e numerado sequencialmente.
-O softwre DetectaRad foi desenvolvido para ser executado apenas no sistema operacional Windows.
+O software DetectaRad foi desenvolvido para ser executado apenas no sistema operacional Windows.
 
 [Demonstracao Vídeo YouTube](https://youtu.be/BfPhDDmZTyQ)
 
@@ -31,25 +31,26 @@ O softwre DetectaRad foi desenvolvido para ser executado apenas no sistema opera
 
 ![Montagem final](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/MONTAGEM%20FINAL%20RESIZED%20640%20X%20480.bmp)
 
-Os pontos na janela **IMAGEM EM TEMPO REAL** aparecem e desaparecem rapidamente. Alguns pontos com intensidade mais fraca não podem ser visto pelo observador. A imagem abaixo mostra um ponto bem visível.
+Os pontos na janela **IMAGEM EM TEMPO REAL** aparecem e desaparecem rapidamente. Alguns pontos com intensidade mais fraca não podem ser visto pelo observador. A imagem abaixo mostra um ponto bem visível detectado nas coordenadas (345;351). Como a imagem é gerada segue o padrão da biblioteca OpenCV , a origem (0,0) situa-se no canto esquerdo superior.
 
 ![Ponto bem visível](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/UM%20PONTO%20DETECTADO%20BEM%20VIS%C3%8DVEL%201.bmp)
 
 
+Observe que o arquivo ***cooredenadas_todos_os_pontos_detectador.txt*** - gerado automaticamente ao final do programa - lista este ponto na segunda linha:
 
+```
+614:68	    Nivel de cinza:  32
 
+345:351		Nivel de cinza:  51
 
+530:408		Nivel de cinza:  31
+```
 
+A primeira linha corresponde ao primeiro frame capturado , a segunda linha ao segundo frame e assim por diante.
 
+Desta forma podemos conferir utilizando o programa PAINT do Windows que realmente na coordenada (345;351) encontramos um ponto de detecção conforme mostrado na Figura abaixo.
 
-
-
-
-
-
-
-
-
+![Ponto visto do PAINT](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/PONTO%20VISTO%20PELO%20PAINT.png)
 
 
 
