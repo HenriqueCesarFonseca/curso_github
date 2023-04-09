@@ -25,13 +25,13 @@ Uma fonte de radiação gama e uma webcam são colocadas dentro de um recipiente
 Ao finalizar o programa, todos os frames em que foram detectados algum ponto de radiação são armazenados em um diretório bem como um arquivo com as coordenadas de todos os pontos de radiação detectados. A cada experimento um novo diretório é criado e numerado sequencialmente.
 O software DetectaRad foi desenvolvido para ser executado apenas no sistema operacional Windows.
 
-[Demonstracao Vídeo YouTube](https://youtu.be/BfPhDDmZTyQ)
+[Clique aqui para ver uma demonstração no YouTube](https://youtu.be/BfPhDDmZTyQ)
 
 ![GIF](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/gif_2.gif)
 
 ![Montagem final](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/MONTAGEM%20FINAL%20RESIZED%20640%20X%20480.bmp)
 
-Os pontos na janela **IMAGEM EM TEMPO REAL** aparecem e desaparecem rapidamente. Alguns pontos com intensidade mais fraca não podem ser visto pelo observador. A imagem abaixo mostra um ponto bem visível detectado nas coordenadas (345;351). Como a imagem é gerada segue o padrão da biblioteca OpenCV , a origem (0,0) situa-se no canto esquerdo superior.
+Os pontos na janela **IMAGEM EM TEMPO REAL** aparecem e desaparecem rapidamente. Alguns pontos com intensidade mais fraca não podem ser visto pelo observador. A imagem abaixo mostra um ponto bem visível detectado nas coordenadas (345;351). Como a imagem gerada segue o padrão da biblioteca OpenCV , a origem (0,0) situa-se no canto esquerdo superior.
 
 ![Ponto bem visível](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/UM%20PONTO%20DETECTADO%20BEM%20VIS%C3%8DVEL%201.bmp)
 
