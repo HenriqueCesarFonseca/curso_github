@@ -31,6 +31,10 @@ O softwre DetectaRad foi desenvolvido para ser executado apenas no sistema opera
 
 ![Montagem final](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/MONTAGEM%20FINAL%20RESIZED%20640%20X%20480.bmp)
 
+Os pontos na janela **IMAGEM EM TEMPO REAL** aparecem e desaparecem rapidamente. Alguns pontos com intensidade mais fraca não podem ser visto pelo observador. A imagem abaixo mostra um ponto bem visível.
+
+![Ponto bem visível](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/UM%20PONTO%20DETECTADO%20BEM%20VIS%C3%8DVEL%201.bmp)
+
 
 
 
