@@ -53,7 +53,7 @@ Desta forma podemos conferir utilizando o programa PAINT do Windows que realment
 ![Ponto visto do PAINT](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/PONTO%20VISTO%20PELO%20PAINT.png)
 
 
-O parâmetro **Nível de cinza** corresponde à conversão do padrão RGB com diferentes intensidade para Red,Green e Blue convertidas para o padrão GRAY com um único nível de intensidade (o que facilita o software executar a busca por um ponto detectado).
+O parâmetro ***Nível de cinza*** corresponde à conversão do padrão RGB com diferentes intensidade para Red,Green e Blue convertidas para o padrão GRAY com um único nível de intensidade (o que facilita o software executar a busca por um ponto detectado).
 
 
 
