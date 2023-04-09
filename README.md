@@ -48,7 +48,7 @@ Observe que o arquivo ***cooredenadas_todos_os_pontos_detectador.txt*** - gerado
 
 A primeira linha corresponde ao primeiro frame capturado , a segunda linha ao segundo frame e assim por diante.
 
-Desta forma podemos conferir utilizando o programa PAINT do Windows que realmente ntaa coordenada (345;351) encontramos um ponto de detecção conforme mostrado na Figura abaixo.
+Desta forma podemos conferir utilizando o programa PAINT do Windows que realmente na coordenada (345;351) encontramos um ponto de detecção conforme mostrado na Figura abaixo.
 
 ![Ponto visto do PAINT](https://github.com/HenriqueCesarFonseca/gamma_detector/blob/main/Imagens/PONTO%20VISTO%20PELO%20PAINT.png)
 
