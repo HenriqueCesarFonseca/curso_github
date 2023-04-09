@@ -39,7 +39,7 @@ Os pontos na janela **IMAGEM EM TEMPO REAL** aparecem e desaparecem rapidamente.
 Observe que o arquivo ***cooredenadas_todos_os_pontos_detectador.txt*** - gerado automaticamente ao final do programa - lista este ponto na segunda linha:
 
 ```
-614:68	           Nivel de cinza:  32
+614:68	         Nivel de cinza:  32
 
 345:351		Nivel de cinza:  51
 
